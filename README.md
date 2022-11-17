@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sander Jongbloets</h1>
 <h3 align="center">I'm a Full-Stack developer based in Tilburg, The Netherlands</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Docker**
 
 - 💬 Ask me about **React, Flutter**
 
